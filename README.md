@@ -1,4 +1,4 @@
-# 🛤️ Jerney — Blog Platform
+# 🛤️ CouldForge — Blog Platform
 
 A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, Node.js backend, and PostgreSQL database.
 
